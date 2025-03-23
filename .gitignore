@@ -1,0 +1,13 @@
+# Bỏ qua node_modules và môi trường ảo
+node_modules/
+.env
+package-lock.json
+
+# Bỏ qua thư mục hệ thống & IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Bỏ qua file log và cache
+npm-debug.log
+yarn-error.log
